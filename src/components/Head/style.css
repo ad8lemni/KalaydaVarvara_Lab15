@@ -1,0 +1,21 @@
+.header { 
+    position: absolute; 
+    top: 0; 
+    left: 0;
+    background-color:plum;
+    width: 100%; 
+    height: 64px; 
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+}
+
+a {
+    margin: 6px;
+}
+
+.active { 
+    background-color:deeppink;
+    color:aliceblue;
+    padding: 6px;
+}
