@@ -1,2 +1,0 @@
-# KalaydaVarvara_Lab15
-KalaydaVarvara_Lab15
